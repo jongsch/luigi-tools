@@ -1,0 +1,6 @@
+boto3
+tensorflow
+keras
+pandas
+pyathena
+joblib
